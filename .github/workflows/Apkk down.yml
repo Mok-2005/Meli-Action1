@@ -1,4 +1,4 @@
-name: دانلود فایل نصبی گوگل پلی
+name: گوگوگو
 
 on:
   workflow_dispatch:
